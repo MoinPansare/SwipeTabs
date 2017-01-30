@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SwipeTabs_Example' do
+  pod 'SwipeTabs', :path => '../'
+
+  target 'SwipeTabs_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
