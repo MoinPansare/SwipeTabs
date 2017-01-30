@@ -1,0 +1,16 @@
+PODS:
+  - SwipeTabs (0.1.0)
+
+DEPENDENCIES:
+  - SwipeTabs (from `../`)
+
+EXTERNAL SOURCES:
+  SwipeTabs:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SwipeTabs: 32146b46b5128e4db1f2b76f4d5c4a3a10088772
+
+PODFILE CHECKSUM: e31b5681acaf721bd9c488aa9e69456d3be91130
+
+COCOAPODS: 1.1.1

@@ -1,28 +1,31 @@
 # SwipeTabs
 
-[![CI Status](http://img.shields.io/travis/MoinPansare/SwipeTabs.svg?style=flat)](https://travis-ci.org/MoinPansare/SwipeTabs)
-[![Version](https://img.shields.io/cocoapods/v/SwipeTabs.svg?style=flat)](http://cocoapods.org/pods/SwipeTabs)
-[![License](https://img.shields.io/cocoapods/l/SwipeTabs.svg?style=flat)](http://cocoapods.org/pods/SwipeTabs)
-[![Platform](https://img.shields.io/cocoapods/p/SwipeTabs.svg?style=flat)](http://cocoapods.org/pods/SwipeTabs)
+trying something new with tab bar animation<br>Will smoothen out the animation effect in future commits
+
+## Requirements
+
+xCode <b>8+</b><br> Swift<b> 3.0</b>
 
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
-
 ## Installation
 
-SwipeTabs is available through [CocoaPods](http://cocoapods.org). To install
+CurtainFall is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "SwipeTabs"
+pod 'SwipeTabs', :git => 'https://github.com/MoinPansare/SwipeTabs.git'
 ```
 
 ## Author
 
 MoinPansare, moin.pansare@gmail.com
+
+![Follow Me On twitter](https://twitter.com/MOIN__)
+
+
 
 ## License
 

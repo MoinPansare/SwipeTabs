@@ -1,0 +1,6 @@
+framework module Pods_SwipeTabs_Example {
+  umbrella header "Pods-SwipeTabs_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
