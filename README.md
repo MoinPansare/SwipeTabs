@@ -2,6 +2,10 @@
 
 trying something new with tab bar animation<br>Will smoothen out the animation effect in future commits
 
+## Demo
+
+<a href="https://imgflip.com/gif/1im86n"><img src="https://i.imgflip.com/1im86n.gif" title="made at imgflip.com"/></a>
+
 ## Requirements
 
 xCode <b>8+</b><br> Swift<b> 3.0</b>
