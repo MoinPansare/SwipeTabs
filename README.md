@@ -2,6 +2,9 @@
 
 trying something new with tab bar animation<br>Will smoothen out the animation effect in future commits
 
+#Inspired From 
+(https://ios.uplabs.com/posts/gif-of-the-tapbar-interactions)
+
 ## Demo
 
 <a href="https://imgflip.com/gif/1im86n"><img src="https://i.imgflip.com/1im86n.gif" title="made at imgflip.com"/></a>
