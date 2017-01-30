@@ -23,7 +23,7 @@ pod 'SwipeTabs', :git => 'https://github.com/MoinPansare/SwipeTabs.git'
 
 MoinPansare, moin.pansare@gmail.com
 
-![Follow Me On twitter](https://twitter.com/MOIN__)
+Follow Me On twitter(https://twitter.com/MOIN__)
 
 
 
